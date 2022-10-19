@@ -1,7 +1,6 @@
 # Happy Birthday
 
-## 친구에게 생일축하 html 페이지를 만들어주었다.
-
+친구에게 생일 축하 웹 페이지를 만들어주었다.<br></br>
 `html`, `css`, `javascript`를 공부할 수 있었다.
 
 ## 작동방식
