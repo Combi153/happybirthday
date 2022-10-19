@@ -1,4 +1,4 @@
-# happybirthday
+# Happy Birthday
 
 ## 친구에게 생일축하 html 페이지를 만들어주었다.
 
