@@ -16,3 +16,19 @@
 - 재미있는 장난감을 만들고 싶었다.
 
 ## 작동 예시
+
+#### 첫 화면
+
+<img src="https://github.com/Combi153/happybirthday/blob/main/image/happybirthday1.PNG" width="80%" height="80%">
+
+#### 문제 풀이
+
+<img src="https://github.com/Combi153/happybirthday/blob/main/image/happybirthday2.PNG" width="80%" height="80%">
+
+#### 문제를 모두 맞추었을 때
+
+<img src="https://github.com/Combi153/happybirthday/blob/main/image/happybirthday3.PNG" width="80%" height="80%">
+
+#### 문제를 하나라도 틀렸을 때
+
+<img src="https://github.com/Combi153/happybirthday/blob/main/image/happybirthday4.PNG" width="80%" height="80%">
